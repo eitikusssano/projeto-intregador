@@ -1,0 +1,62 @@
+nav li{
+    transition: 2s;
+   display: inline;
+    background-color: cornsilk;
+    list-style: none;
+    margin: 20px;
+    padding: 10px;
+    width: 50px;
+    border: 2px solid #000;
+    border-radius: 10px 0px;
+}
+nav A{
+    text-decoration: none;
+    color: #000;
+    font-size: 15pt;
+}
+ nav ul{
+    background-color: aliceblue;
+    padding: 20px;
+}
+nav li:hover {
+    background-image: linear-gradient(to top, #121212,);
+    transition: 2s;
+}
+
+nav li{
+    transition: 2s;
+}
+footer{
+    background-color: aliceblue;
+}
+.rodape {
+    width: 31%;
+    border: 1px solid  #000;
+    float: left;
+    height: 230px;
+}
+.limpa-float{
+    clear: both;
+}
+.rodape img{
+    width: 50px;
+    border-radius: 20px;
+}
+footer li {list-style-type: none; display: inline
+Display: inline}
+.rodape img{width: 50px;
+border-radius: 20px;}
+.rodape img:hover{ transform: scale(1.5);
+    transition: 3s;
+}
+.rodape li{
+    list-style:none;
+    
+}
+
+.rodape li:hover{
+    background-color: #c0c0c0;
+}
+.rodape A {text-decoration-none: 
+    color rgb(4,75,4);
+font-family:Arial, Helvetica, sans-serif;}
